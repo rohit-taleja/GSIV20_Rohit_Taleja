@@ -89,10 +89,3 @@
 .m-content-wrapper .description{
     max-width:200px;
 }
-
-
-input{    
-    background: url("./Icon.png") top left     no-repeat;
-    height:30px;
-    padding-left:25px;   
-    }

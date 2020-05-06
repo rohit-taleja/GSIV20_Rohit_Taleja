@@ -1,6 +1,6 @@
-import React, { Component } from './node_modules/react';
+import React, { Component } from 'react';
 import '../css/moviesList.css'
-import { withRouter } from './node_modules/react-router-dom';
+import { withRouter } from 'react-router-dom';
 import { getUpcomingMovies, searchMovies } from '../../../utility/movieUtitlity';
 import { BASE_IMAGE_URL } from '../../../constant/movieConstant';
 class MoviesList extends Component {

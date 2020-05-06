@@ -1,6 +1,5 @@
 import React from 'react';
 import './App.css';
-import './movieDetails.css';
 import { Route, Switch } from "react-router-dom";
 import MoviesList from './screen/movieHome/component/moviesList';
 import MovieDetails from './screen/movieDetails/component/movieDetails';

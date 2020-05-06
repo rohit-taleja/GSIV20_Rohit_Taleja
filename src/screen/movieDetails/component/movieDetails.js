@@ -1,4 +1,3 @@
-
 import React, { Component } from 'react';
 import '../css/movieDetails.css';
 import {  getMovieDetail } from '../../../utility/movieUtitlity';
@@ -13,7 +12,6 @@ export default class MovieDetails extends Component {
     }
 
   async componentDidMount(){
-
   const result =  await getMovieDetail(this.props.match.params.movieId);
   this.setState({
       movieDetails : result.data
