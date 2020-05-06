@@ -1,0 +1,64 @@
+.m-detalis-header {
+  padding-left: 16px;
+  box-shadow: 0 2px 4px 0 #9b9b9b;
+  background-color: #ffffff;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 20px;
+  padding-bottom: 20px;  
+  text-align: left;
+}
+.m-detalis-header h3{
+margin: 0;
+font-family: Roboto;
+font-size: 20px;
+font-weight: 500;
+font-stretch: normal;
+font-style: normal;
+line-height: normal;
+letter-spacing: normal;
+color: #4a4a4a;
+}
+.m-details-body {
+  padding-left: 16px;
+  padding-top: 16px;
+  padding-right: 16px;
+  display: flex;
+  align-items: left;
+}
+.m-details-picture {
+width: 180px;
+height: 240px;
+border: solid 1px #979797;
+background-color: #d8d8d8;
+}
+.m-details-content{
+  margin-left:16px;
+  text-align: left;
+}
+.m-title{
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #4a4a4a;
+  margin: 0;
+}
+.m-details-content p {
+  font-family: Roboto;
+font-size: 20px;
+font-weight: normal;
+margin: 8px 0;
+font-stretch: normal;
+font-style: normal;
+line-height: normal;
+letter-spacing: normal;
+color: #4a4a4a;
+}
+
+.m-details-picture img {
+max-width: 180px;
+}

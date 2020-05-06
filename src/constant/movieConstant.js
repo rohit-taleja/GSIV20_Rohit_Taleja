@@ -1,0 +1,1 @@
+export const BASE_IMAGE_URL = 'http://image.tmdb.org/t/p/';
